@@ -1,5 +1,6 @@
 //
 // Test Arduion Duemilanove
+// Reads Temperatures from DS18B20s and displays it on a LCD
 //
 
 #include <OneWire.h>
